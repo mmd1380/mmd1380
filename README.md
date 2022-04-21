@@ -1,0 +1,5 @@
+- 👋 Hi, I’m mohammad!
+- 👀 I’m interested in Web Development and front-end programming
+- 🌱 I’m currently learning javascript, react, vue, css, typescript
+- 💞️ I’m looking to collaborate on cool frontend projects
+- 📫 this is my linkedin profile: https://www.linkedin.com/in/mohammad-safe-574442226/
